@@ -1,6 +1,6 @@
 # Animated Search Button with Dark Mode
 
-A beautiful, animated search button component for React with dark mode support based on the new animation of Search by ChatGPT ([inspiration](https://x.com/FonsMans/status/1852300986577993860)). Built with Framer Motion and Tailwind CSS.
+A beautiful, animated search button component with React based on the new animation of Search by ChatGPT ([inspiration](https://x.com/FonsMans/status/1852300986577993860)). Built with Framer Motion and Tailwind CSS.
 
 ## Demo
 
