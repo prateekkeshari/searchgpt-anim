@@ -4,7 +4,7 @@ A beautiful, animated search button component for React with dark mode support b
 
 ## Demo
 
-https://github.com/prateekkeshari/searchgpt-anim/assets/demo.mp4
+<video width="1080 " height="1080" src="https://github.com/user-attachments/assets/d01100f1-0909-4b1a-9046-964230196ead" controls></video>
 
 ## Features
 - Smooth animations
